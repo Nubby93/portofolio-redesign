@@ -1,0 +1,16 @@
+<svg width="645" height="646" viewBox="0 0 645 646" fill="none">
+<rect x="323" width="161" height="161" rx="20" fill="#6300FF"/>
+<rect x="323" width="161" height="161" rx="20" stroke="#6300FF"/>
+<rect x="323" y="324" width="161" height="161" rx="20" fill="#6300FF"/>
+<rect x="323" y="324" width="161" height="161" rx="20" stroke="#6300FF"/>
+<rect x="484" y="161" width="161" height="161" rx="20" fill="#6300FF" fill-opacity="0.3"/>
+<rect x="484" y="161" width="161" height="161" rx="20" stroke="#6300FF"/>
+<rect x="161" y="161" width="161" height="161" rx="20" fill="white"/>
+<rect x="161" y="161" width="161" height="161" rx="20" stroke="#6300FF"/>
+<rect x="162" y="485" width="161" height="161" rx="20" fill="white"/>
+<rect x="162" y="485" width="161" height="161" rx="20" stroke="#6300FF"/>
+<rect y="324" width="161" height="161" rx="20" fill="white" fill-opacity="0.3"/>
+<rect y="324" width="161" height="161" rx="20" stroke="#6300FF"/>
+<circle cx="403.5" cy="242.5" r="80.5" fill="#FF64CD"/>
+<circle cx="242.5" cy="404.5" r="80.5" fill="#00E8FF"/>
+</svg>
