@@ -4,7 +4,9 @@ body {
   margin: 0;
   font-family: 'Poppins', arial;
 }
-
+html {
+	scroll-behavior: smooth;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -179,6 +181,18 @@ section {
   margin-bottom: 2em;
 }
 
+.hireme-container {
+  font-weight: bold;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+.hireme-container a {
+  color: #FF64CB;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 @media only screen and (min-width: 800px) {
   .featured, .portfolio {
     text-align: left;
@@ -218,7 +232,7 @@ section {
   }
 }
 
-@media only screen and (min-width: 1050px) {
+@media only screen and (min-width: 800px) and (min-width: 1050px) {
   .hero {
     height: 100vh;
   }
@@ -257,6 +271,9 @@ section {
   .social-header ul img {
     width: 20px;
   }
+}
+
+@media only screen and (min-width: 800px) {
   .hero {
     display: -ms-grid;
     display: grid;

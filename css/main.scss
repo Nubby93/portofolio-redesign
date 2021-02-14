@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
+
 body {
   height: 100vh;
   margin: 0;
@@ -179,6 +180,21 @@ section {
   margin-bottom: 2em;
 }
 
+
+.hireme-container{
+    font-weight: bold;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.hireme-container a {
+    color: #FF64CB;
+    text-decoration: underline;
+    font-weight: bold;
+  
+}
+
+
 @media only screen and (min-width: 800px) {
   .featured, .portfolio {
     text-align: left;
@@ -216,7 +232,8 @@ section {
   .portfolio-container img {
     margin-left: 2em;
   }
-}
+
+
 
 @media only screen and (min-width: 1050px) {
   .hero {
@@ -254,6 +271,7 @@ section {
     width: 7em;
     float: right;
   }
+ 
   .social-header ul img {
     width: 20px;
   }
